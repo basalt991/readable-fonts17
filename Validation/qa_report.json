@@ -1,0 +1,70 @@
+{
+  "game_version": "1.7.4976 rev1043",
+  "build": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "xml_valid": true,
+  "localization_keys": 25,
+  "localization_key_and_placeholder_parity": true,
+  "default_font": "C:\\Windows\\Fonts\\malgunbd.ttf",
+  "hangul_syllables_checked": 11172,
+  "missing_hangul_syllables": [],
+  "latin_digits_covered": true,
+  "engine_probe_runtime": "10.0.10 (bundled Waylith CLR)",
+  "engine_probe": "real ImGui/FreeType registration, cache, invalid font, sizes 12/14/17.5/21/26.25, Korean measurement, shared Font/GUIStyle replacement and restoration",
+  "in_game_verified": false,
+  "mod_dll_sha256": "FAB12139B3F88D211B981E794613ED0C01E14FDCFE06432D95F31B333F2D1916",
+  "input_sha256": {
+    "Assembly-CSharp.dll": "A75352BE43FF6FE20A45F014DD0969E90842EE6468C60655D02B9F5138EB69E7",
+    "UnityStubs.dll": "B0B997C300670D5A42EA70F468FF9FEDABA03CBD65EABF5D522675B3F16CDB22",
+    "RimWorld.dll": "7183C5B884BF22DFE9EFA10E596FFAC862EEB3C71678B544C357ED69F50030A3"
+  },
+  "font_sha256": "A541834FB9CDDE9BD6D2C3FF1565CB0BB5CCF7A15E4E9DAF2CB58D9B1CF282AA",
+  "installed_font_catalog": {
+    "assertions": 40,
+    "installed_faces": 402,
+    "full_korean_faces": 43,
+    "collection_faces": 57,
+    "scan_milliseconds": 1302,
+    "default_font_name": "맑은 고딕 — Bold",
+    "collection_samples": [
+      {
+        "FaceIndex": 2,
+        "DisplayName": "궁서 — Regular",
+        "HangulCount": 11172
+      },
+      {
+        "FaceIndex": 3,
+        "DisplayName": "궁서체 — Regular",
+        "HangulCount": 11172
+      },
+      {
+        "FaceIndex": 0,
+        "DisplayName": "바탕 — Regular",
+        "HangulCount": 11172
+      },
+      {
+        "FaceIndex": 1,
+        "DisplayName": "바탕체 — Regular",
+        "HangulCount": 11172
+      }
+    ],
+    "in_game_ui_verified": false
+  },
+  "engine_collection_and_otf_samples_passed": 5,
+  "current_game_language_filter": {
+    "assertions": 40,
+    "language_font_counts": {
+      "English": 386,
+      "한국어": 43,
+      "日本語": 57,
+      "简体中文": 24,
+      "繁體中文": 25,
+      "Русский": 271,
+      "Deutsch": 347
+    },
+    "shaping_verified": false,
+    "in_game_ui_verified": false
+  }
+}

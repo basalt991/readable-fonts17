@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RF17_Title>Font replacement</RF17_Title>
+  <RF17_Enabled>Enable font replacement</RF17_Enabled>
+  <RF17_Bold>Malgun Gothic Bold (default)</RF17_Bold>
+  <RF17_Regular>Malgun Gothic Regular</RF17_Regular>
+  <RF17_Selected>Selected font: {0}</RF17_Selected>
+  <RF17_Search>Search</RF17_Search>
+  <RF17_LanguageOnly>Show fonts supporting the current game language ({0})</RF17_LanguageOnly>
+  <RF17_Scanning>Loading installed fonts.</RF17_Scanning>
+  <RF17_Count>Showing {0} fonts / {1} installed fonts</RF17_Count>
+  <RF17_Refresh>Refresh</RF17_Refresh>
+  <RF17_LanguageBadge>Supported</RF17_LanguageBadge>
+  <RF17_Coverage>{0} character coverage: {1} / {2}</RF17_Coverage>
+  <RF17_NoMatches>No matching fonts. Clear the search or turn off the game language filter.</RF17_NoMatches>
+  <RF17_ScanFailed>Could not load the font list: {0}</RF17_ScanFailed>
+  <RF17_Apply>Apply</RF17_Apply>
+  <RF17_Restore>Restore original font</RF17_Restore>
+  <RF17_Waiting>Preparing font replacement.</RF17_Waiting>
+  <RF17_Restored>Using the original font.</RF17_Restored>
+  <RF17_Applied>Applied font: {0}</RF17_Applied>
+  <RF17_Failed>Could not apply the font. Restoring the original font.
+{0}</RF17_Failed>
+  <RF17_Preview>Preview: {0}</RF17_Preview>
+  <RF17_InvalidFont>The font file is unsupported or damaged.</RF17_InvalidFont>
+  <RF17_EmptyPath>Enter a font file path.</RF17_EmptyPath>
+  <RF17_Extension>This font file format is unsupported.</RF17_Extension>
+  <RF17_NotFound>The font file could not be found.</RF17_NotFound>
+</LanguageData>

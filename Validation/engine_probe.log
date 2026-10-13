@@ -1,0 +1,11 @@
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+PASS: active-language detection, switching, cache and Core/mod text separation on real game assemblies.
+FreeType True
+Measure 12: 243 x 16
+Measure 14: 283 x 18
+Measure 17.5: 348.0555 x 23
+Measure 21: 419 x 28
+Measure 26.25: 529.0385 x 35
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.

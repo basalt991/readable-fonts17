@@ -1,0 +1,55 @@
+SAMPLE batang-face-0.ttf
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+FreeType True
+Measure 12: 234 x 12
+Measure 14: 281 x 14
+Measure 17.5: 357.7778 x 17
+Measure 21: 390 x 21
+Measure 26.25: 532.0673 x 27
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.
+SAMPLE batang-face-1.ttf
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+FreeType True
+Measure 12: 234 x 12
+Measure 14: 273 x 14
+Measure 17.5: 341.25 x 17
+Measure 21: 411 x 21
+Measure 26.25: 511.875 x 27
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.
+SAMPLE batang-face-2.ttf
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+FreeType True
+Measure 12: 232 x 12
+Measure 14: 270 x 14
+Measure 17.5: 348.0555 x 17
+Measure 21: 398 x 21
+Measure 26.25: 537.1154 x 27
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.
+SAMPLE batang-face-3.ttf
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+FreeType True
+Measure 12: 234 x 12
+Measure 14: 273 x 14
+Measure 17.5: 341.25 x 17
+Measure 21: 411 x 21
+Measure 26.25: 511.875 x 27
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.
+SAMPLE NanumBarunGothicBold.otf
+Runtime 10.0.10
+Production DLL catalog: 402 installed faces
+FreeType True
+Measure 12: 228 x 14
+Measure 14: 253 x 16
+Measure 17.5: 329.5833 x 20
+Measure 21: 390 x 24
+Measure 26.25: 484.6154 x 30
+PASS: shared Font replacement, copied GUIStyle, metrics and restoration.
+PASS: Waylith font registration/cache/invalid-font/size/Korean measurement.

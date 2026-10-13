@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Readable Fonts 1.7</name>
+  <author>Local</author>
+  <packageId>local.readablefonts17</packageId>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <description>Replaces RimWorld 1.7 UI fonts with an installed Windows font. Defaults to Malgun Gothic Bold. Includes an automatically populated font list, name search, a filter for the current game language, TTF/OTF/TTC/OTC support, and original-font restoration. The language filter updates when the game language changes. Uses Waylith font registration. Font files are not bundled.</description>
+  <modDependencies><li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li></modDependencies>
+  <loadAfter><li>brrainz.harmony</li></loadAfter>
+</ModMetaData>

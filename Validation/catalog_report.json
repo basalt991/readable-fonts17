@@ -1,0 +1,31 @@
+{
+  "assertions": 40,
+  "installed_faces": 402,
+  "full_korean_faces": 43,
+  "collection_faces": 57,
+  "scan_milliseconds": 1302,
+  "default_font_name": "\uB9D1\uC740 \uACE0\uB515 \u2014 Bold",
+  "collection_samples": [
+    {
+      "FaceIndex": 2,
+      "DisplayName": "\uAD81\uC11C \u2014 Regular",
+      "HangulCount": 11172
+    },
+    {
+      "FaceIndex": 3,
+      "DisplayName": "\uAD81\uC11C\uCCB4 \u2014 Regular",
+      "HangulCount": 11172
+    },
+    {
+      "FaceIndex": 0,
+      "DisplayName": "\uBC14\uD0D5 \u2014 Regular",
+      "HangulCount": 11172
+    },
+    {
+      "FaceIndex": 1,
+      "DisplayName": "\uBC14\uD0D5\uCCB4 \u2014 Regular",
+      "HangulCount": 11172
+    }
+  ],
+  "in_game_ui_verified": false
+}
